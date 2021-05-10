@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
+Realizando algumas alterações para testar o comando commit.
 
-Hi there. I'm writing some stuff just to test the commit command. 
+Atualizar via terminal: git-bash.s
